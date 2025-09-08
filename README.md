@@ -6,7 +6,7 @@
  
 <br>
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/m/M8NOboaCB2MAAAAC/peter-griffin-nails.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/M8NOboaCB2MAAAAC/peter-griffin-nails.gif" width="450"/>
 
 
 
