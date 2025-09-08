@@ -1,18 +1,21 @@
 <h2 title="hehehe"> <b>Hi , I'm Carla! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <br>
 
-🌸 A **Junior** ***Developer*** 🌸.
+🌸 **Junior** ***Developer*** 🌸
+<p>who loves Shrek 2, cats and bad horror movies.</p>
  
 <br>
 
-<img align="right" alt="GIF" src="https://78.media.tumblr.com/e0f13e0f93a145a0b2b4b0f31f68831f/tumblr_owp5roNeMK1s4u80lo1_r1_540.gif" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/M8NOboaCB2MAAAAC/peter-griffin-nails.gif" width="500"/>
 
 
 
 **About Me!**
 
-- 🫧 I’m currently a I.T. (Information System) Undergrad student at PUCPR (Curitiba - Brazil).
-- 👩‍🦰 She / her
+- She / her
+- I’m currently a I.T. (Information System) Undergrad student at PUCPR (Curitiba - Brazil).
+- I do more commits at 3 AM than at any sane hour.
+- My official debugging soundtrack is 2000s cheesy rock dad music.
 - 💌 Let's talk! Email me at [araujoc0101@gmail.com](mailto:araujoc0101@gmail.com).
 <br>
 
