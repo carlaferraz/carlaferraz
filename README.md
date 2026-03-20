@@ -1,7 +1,7 @@
 <h2 title="hehehe"> <b>Hi , I'm Carla! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <br>
 
-🌸 **Junior** ***Developer*** 🌸
+🌸 **Girly** ***Developer*** 🌸
 <p>who loves Shrek 2, cats and bad horror movies.</p>
  
 <br>
