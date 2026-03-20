@@ -13,9 +13,9 @@
 **About Me!**
 
 - She / her
-- I’m currently a I.T. (Information System) Undergrad student at PUCPR (Curitiba - Brazil).
+- I’m currently a I.T. Undergrad student at PUCPR (Curitiba - Brazil).
 - I do more commits at 3 AM than at any sane hour.
-- My official soundtrack is 2000s cheesy rock dad music.
+- My official playlist is 2000s cheesy rock dad music.
 <br>
 
 <p>
