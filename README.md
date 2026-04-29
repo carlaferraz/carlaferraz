@@ -22,7 +22,6 @@
   
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
-
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swiftui" width="30" height="30"/>
 </a>
@@ -42,12 +41,12 @@
 <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="30" height="30" /> </a>
+      width="30" height="30" /> 
+</a>
 <br>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-
 <a href="https://www.linkedin.com/in/carla-ferraz-de-araujo-5a576b2b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/carlacarlinhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>  
 </p>
