@@ -39,7 +39,7 @@
 </td>
 <td align="center">
 <a href="https://carlaferraz.github.io">
-<strong>visit my page 🌸</strong>
+<strong>visit my website 🌸</strong>
 </a>
 <br/><br/>
 <img src="./images/website.gif" width="150" height="150"/>
