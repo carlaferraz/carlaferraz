@@ -134,7 +134,20 @@
 </div>
 
 
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlaferraz&show_icons=true&theme=tokyonight&hide_border=true&title_color=c084fc&icon_color=f472b6&text_color=f9a8d4&bg_color=1a0a2e" height="165"/>
+</td>
+<td>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlaferraz&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=f9a8d4&bg_color=1a0a2e" height="165"/>
+</td>
+</tr>
+</table>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlaferraz&theme=tokyonight&hide_border=true&ring=c084fc&fire=f472b6&currStreakLabel=f9a8d4&background=1a0a2e&stroke=c084fc&sideLabels=f9a8d4&dates=a78bfa"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlaferraz&bg_color=1a0a2e&color=f9a8d4&line=c084fc&point=f472b6&hide_border=true"/>
