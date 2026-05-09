@@ -41,7 +41,7 @@
 <strong>visit my page 🌸</strong>
 </a>
 <br/><br/>
-<img src="./images/whoami.jpg" width="150" height="150"/>
+<img src="./images/website.gif" width="150" height="150"/>
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/carla-ferraz-de-araujo-5a576b2b1/">
@@ -167,4 +167,8 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Best viewed in IE"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames"/>
+</div>
+
+<div>
+   <img src="./images/muah.jpg" width=100%/>
 </div>
