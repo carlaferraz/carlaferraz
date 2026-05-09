@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./images/welcome.gif"/>
   <br/><br/>
-  <img src="./images/welcometomygithub.png" width=400/>
+  <img src="./images/welcometomygithub.png" width=100%/>
 </div>
 
 <div align="center">
@@ -27,33 +27,31 @@
 
 </div>
 
-<div>
-  <table width="100%" align="center">
+<table width="100%" align="center">
 <tr>
 <td align="center">
 <a href="https://www.youtube.com/watch?v=2fySmjDiPDo">
 <strong>listen to cool music 🎸</strong>
-<br/><br/>
-<img height="80" src="https://i.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.webp"/>
 </a>
+<br/><br/>
+<img src="./images/music.gif" width="150" height="150"/>
 </td>
 <td align="center">
 <a href="https://carlaferraz.github.io">
 <strong>visit my page 🌸</strong>
-<br/><br/>
-<img height="80" src="https://i.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.webp"/>
 </a>
+<br/><br/>
+<img src="./images/whoami.jpg" width="150" height="150"/>
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/carla-ferraz-de-araujo-5a576b2b1/">
 <strong>visit my linkedin 💼</strong>
-<br/><br/>
-<img height="80" src="https://i.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.webp"/>
 </a>
+<br/><br/>
+<img src="./images/clip.gif" width="150" height="150"/>
 </td>
 </tr>
 </table>
-</div>
 
 
 
@@ -146,7 +144,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=carlaferraz&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
-<div>
+<div align="center">
   <img src="./images/clip.gif" width="300"/>
 </div>
 
