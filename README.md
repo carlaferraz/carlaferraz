@@ -2,8 +2,9 @@
 <div align="center">
   <img src="./images/welcome.gif"/>
   <br/><br/>
-  <img src="./images/welcometomygithub.png" width=100%/>
 </div>
+
+<br/>
 
 <div align="center">
   <table>
@@ -16,7 +17,6 @@
 - 🍎 Apple Developer Academy
 - 👻 bad horror movies
 - 🐸 shrek 2
-- 💖 just a girly pop
 
 </td>
 <td>
@@ -24,13 +24,14 @@
 </td>
 </tr>
 </table>
-
 </div>
+
+<br/>
 
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.youtube.com/watch?v=2fySmjDiPDo">
+<a href="https://www.youtube.com/watch?v=fa49r2k2Igc">
 <strong>listen to cool music 🎸</strong>
 </a>
 <br/><br/>
@@ -53,7 +54,7 @@
 </tr>
 </table>
 
-
+<br/><br/>
 
 <table width="100%">
 <tr>
@@ -114,12 +115,12 @@
   <td align="center" width="80">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40"/><br/>Photoshop
   </td>
-    <td align="center" width="80">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux
-</td>
-<td align="center" width="80">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40"/><br/>macOS
-</td>
+  <td align="center" width="80">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br/>Linux
+  </td>
+  <td align="center" width="80">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40"/><br/>macOS
+  </td>
   </tr>
   </table>
 </td>
@@ -129,10 +130,13 @@
 </tr>
 </table>
 
+<br/><br/>
+
 <div align="center">
-  <img src="./images/girlblogging.jpg" width="300"/>
+  <img src="./images/githubstats.gif" width=100%/>
 </div>
 
+<br/>
 
 <table align="center">
 <tr>
@@ -145,21 +149,37 @@
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlaferraz&theme=tokyonight&hide_border=true&ring=c084fc&fire=f472b6&currStreakLabel=f9a8d4&background=1a0a2e&stroke=c084fc&sideLabels=f9a8d4&dates=a78bfa"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlaferraz&bg_color=1a0a2e&color=f9a8d4&line=c084fc&point=f472b6&hide_border=true"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carlaferraz&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316zhj25wf5qljpqtbv4osufdmp4&cover_image=true&theme=default&show_offline=false&background_color=1a0a2e&interchange=false&profanity=false&bar_color=c084fc"/>
+  </a>
 </div>
 
 <div align="center">
   <img src="./images/clip.gif" width="300"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Made with Notepad" height="30"/>
@@ -169,6 +189,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames"/>
 </div>
 
-<div>
-   <img src="./images/muah.jpg" width=100%/>
+<div align="center">
+  <img src="./images/muah.jpg" width="300"/>
 </div>
