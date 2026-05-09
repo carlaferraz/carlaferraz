@@ -27,6 +27,36 @@
 
 </div>
 
+<div>
+  <table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/watch?v=2fySmjDiPDo">
+<strong>listen to cool music 🎸</strong>
+<br/><br/>
+<img height="80" src="https://i.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.webp"/>
+</a>
+</td>
+<td align="center">
+<a href="https://carlaferraz.github.io">
+<strong>visit my page 🌸</strong>
+<br/><br/>
+<img height="80" src="https://i.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.webp"/>
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/carla-ferraz-de-araujo-5a576b2b1/">
+<strong>visit my linkedin 💼</strong>
+<br/><br/>
+<img height="80" src="https://i.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.webp"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+
+
 <table width="100%">
 <tr>
 <td valign="top">
@@ -106,6 +136,8 @@
 </div>
 
 
+
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlaferraz&bg_color=1a0a2e&color=f9a8d4&line=c084fc&point=f472b6&hide_border=true"/>
 </div>
@@ -114,10 +146,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=carlaferraz&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/carlaferraz/carlaferraz/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
 <div>
   <img src="./images/clip.gif" width="300"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Made with Notepad" height="30"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Best viewed in IE"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames"/>
 </div>
