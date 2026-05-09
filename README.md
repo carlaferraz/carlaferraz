@@ -56,10 +56,13 @@
 
 <br/><br/>
 
+<div align="center">
+   <img src="./images/technologies.gif" width="500"/>
+</div>
+ <br/>
 <table width="100%">
 <tr>
 <td valign="top">
-  <img src="./images/technologies.gif" width="350"/>
   <br/>
   <table>
   <tr>
@@ -133,7 +136,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="./images/githubstats.gif" width=60%/>
+  <img src="./images/githubstats.gif" width="500"/>
 </div>
 
 <br/>
