@@ -133,7 +133,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="./images/githubstats.gif" width=100%/>
+  <img src="./images/githubstats.gif" width=60%/>
 </div>
 
 <br/>
