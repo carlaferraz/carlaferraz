@@ -178,19 +178,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="./images/clip.gif" width="300"/>
-</div>
-
 <br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Made with Notepad" height="30"/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Best viewed in IE"/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames"/>
-</div>
 
 <div align="center">
   <img src="./images/muah.jpg" width="300"/>
