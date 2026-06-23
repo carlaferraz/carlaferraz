@@ -1,12 +1,5 @@
 <!-- Hero Header -->
 <div align="center">
-  <img src="./images/welcome.gif"/>
-  <br/><br/>
-</div>
-
-<br/>
-
-<div align="center">
   <table>
 <tr>
 <td>
