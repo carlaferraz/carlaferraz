@@ -6,10 +6,9 @@
 
 **About Me!**
 - 🌸 she / her
-- 👾 iOS dev
-- 🍎 Apple Developer Academy
-- 👻 bad horror movies
-- 🐸 shrek 2
+- 🚛 Data Analytics @ Volvo Group
+- 🍎 iOS Dev @ Apple Developer Academy
+- 👻 i love bad horror movies and shrek 2
 
 </td>
 <td>
