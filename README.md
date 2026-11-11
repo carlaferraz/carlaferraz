@@ -153,18 +153,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlaferraz&bg_color=1a0a2e&color=f9a8d4&line=c084fc&point=f472b6&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carlaferraz&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
-</div>
-
-<br/><br/>
-
-<div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316zhj25wf5qljpqtbv4osufdmp4&cover_image=true&theme=default&show_offline=false&background_color=1a0a2e&interchange=false&profanity=false&bar_color=c084fc"/>
   </a>
