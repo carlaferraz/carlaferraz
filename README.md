@@ -30,7 +30,7 @@
 <img src="./images/music.gif" width="150" height="150"/>
 </td>
 <td align="center">
-<a href="https://carlaferraz.github.io">
+<a href="www.carlaferraz.com.br">
 <strong>visit my website 🌸</strong>
 </a>
 <br/><br/>
